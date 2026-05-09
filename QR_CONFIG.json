@@ -1,0 +1,12 @@
+{
+    "size": 10,
+    "border": 4,
+    "fill_col": "black",
+    "back_col": "white",
+    "version": 1,
+    "urls": [
+        ["url1","https://github.com/"],
+        ["url2","https://jordimarti.dev/"],
+        ["url3", "https://es.linkedin.com/"]
+    ]
+}
